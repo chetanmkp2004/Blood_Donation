@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/chetanmkp2004/Blood_Donation.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/chetanmkp2004/Blood_Donation.git
